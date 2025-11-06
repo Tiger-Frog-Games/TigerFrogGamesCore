@@ -8,8 +8,5 @@
   "author": {
     "name": "Tiger Frog",
     "url": "https://github.com/Tiger-Frog-Games"
-  },
-  "dependencies": {
-    "com.eflatun.scenereference": ""
   }
 }
