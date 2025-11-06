@@ -9,7 +9,7 @@
     "name": "Tiger Frog",
     "url": "https://github.com/Tiger-Frog-Games"
   },
-  "dependencies":{
-    "com.eflatun.scenereference": "git+https://github.com/starikcetin/eflatun.sceneReference.git#4.1.1"
+  "dependencies": {
+    "com.eflatun.scenereference": ""
   }
 }
