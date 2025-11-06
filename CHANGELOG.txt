@@ -1,0 +1,8 @@
+## [1.0.0] - 2025-11-6
+### First Release
+- Adds Core scripts that I use between all my projects.
+- Audio - SFX and Music Managers
+- Game Pause
+- Input - including rebindings and an example new input action.
+- Scene management - Utilizing scene stacking, and boot strapping scenes to play as if they were gotten to same as players. 
+- Utility - Collect of scripts that Ive found useful. Some programming patterns like different types of singletons or specify type extensions. 
